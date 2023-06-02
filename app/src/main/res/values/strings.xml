@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">appUnoPro</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weigth">Peso</string>
+    <string name="simbolo_hombres">Simbolo Hombres</string>
+    <string name="simbolo_mujeres">Simbolo Mujeres</string>
+    <string name="bajar_peso">Bajar Peso</string>
+    <string name="subir_peso">Subir Peso</string>
+    <string name="tv_age">Edad</string>
+    <string name="btn_calcular">calcular</string>
+    <string name="resultado_imc">Resultado:</string>
+    <string name="calcular_otra_vez">Calcular otra vez</string>
+    
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="desc_bajo_peso">Estas por debajo de lo optimo para tu peso y altura</string>
+
+    <string name="title_normal_peso">Peso Normal</string>
+    <string name="desc_normal_peso">Estas en lo optimo para tu peso y altura</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="desc_sobrepeso">Estas por encima de lo optimo para tu peso y altura</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="desc_obesidad">Tienes obesidad</string>
+</resources>

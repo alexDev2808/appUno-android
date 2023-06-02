@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="simbolo_hombres">Simbolo Hombres</string>
+    <string name="simbolo_mujeres">Simbolo Mujeres</string>
+    <string name="bajar_peso">Bajar Peso</string>
+    <string name="subir_peso">Subir Peso</string>
+    <string name="tv_age">Edad</string>
+    <string name="btn_calcular">calcular</string>
+    <string name="resultado_imc">Resultado:</string>
+    <string name="calcular_otra_vez">Calcular otra vez</string>
+</resources>
