@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import com.example.appuno.imccalculator.IMCCalculatorActivity
+import com.example.appuno.todoapp.TodoActivity
 
 class MenuActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -17,7 +18,15 @@ class MenuActivity : AppCompatActivity() {
         val btnIMC = findViewById<Button>(R.id.btnIMC)
         btnIMC.setOnClickListener{ navigateToIMCApp() }
 
+        val btnTODO = findViewById<Button>(R.id.btnTODO)
+        btnTODO.setOnClickListener { navagateToTODOApp() }
 
+
+    }
+
+    private fun navagateToTODOApp() {
+        val intent = Intent(this, TodoActivity::class.java)
+        startActivity(intent)
     }
 
     private fun navigateToIMCApp() {

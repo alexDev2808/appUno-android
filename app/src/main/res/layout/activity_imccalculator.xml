@@ -137,6 +137,8 @@
                     android:stepSize="1"
                     android:valueFrom="120"
                     android:valueTo="250"
+                    app:thumbColor="@color/background_fab"
+                    app:tickColor="@color/background_fab"
                     />
 
 
