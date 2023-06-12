@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">appUnoPro</string>
+
+<!--    IMC App     -->
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
     <string name="height">Altura</string>
@@ -26,4 +28,9 @@
 
     <string name="title_obesidad">Obesidad</string>
     <string name="desc_obesidad">Tienes obesidad</string>
+
+<!--    TODOApp     -->
+    <string name="todo_title">Bienvenido a tu app</string>
+    <string name="todo_categories">Categorias</string>
+    <string name="todo_tasks">Tareas</string>
 </resources>
